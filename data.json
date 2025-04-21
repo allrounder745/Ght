@@ -1,13 +1,5 @@
 {
-  "channel_name": "IPL Live Hindi",
-  "streams": [
-    {
-      "quality": "Standard",
-      "url": "https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=hin"
-    },
-    {
-      "quality": "Premium",
-      "url": "https://psplayflix.site/2025/ps_ipl-liv.m3u8?psplaylink_ts=2e4cddbe544b837a123e132635f5e66e9a68dfaf5f676928fa519c42249e36ae6240d6710bea38619d4fc818576d27954612dd73918e074cbd33ed14d74a778de38e78aaf2097d7628881a42a38c05203a2af6536b77e44ce62a6ef828e13e04e60abb4e3758be1b4541bafc7d7fc30c4247dcfd3e05a78dcec9c2f0bb2f7f87efeafa3cbecac6cbc233ad25b7e6377c"
-    }
-  ]
+  "name": "Hindi",
+  "url": "https://psplayflix.site/2025/ps_ipl-liv.m3u8?ps=hin",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Republicbharatlogo.png"
 }
